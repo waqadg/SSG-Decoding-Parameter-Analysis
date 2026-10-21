@@ -1,0 +1,1345 @@
+model,temperature,top_k,top_p,seed,response,done_reason
+llama3.2:3b,0.0,10,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,10,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,20,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,50,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.0,100,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,10,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,10,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,10,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,10,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,10,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,10,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,10,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,10,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.3,10,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,10,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,10,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.3,10,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,20,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,20,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,20,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,20,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,20,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,20,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,20,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,20,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.3,20,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,20,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,20,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.3,20,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,50,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,50,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,50,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,50,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,50,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,50,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,50,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,50,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.3,50,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,50,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,50,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.3,50,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,100,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,100,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,100,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,100,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,100,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,100,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,100,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,100,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.3,100,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.3,100,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.3,100,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.3,100,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.7,10,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,10,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,10,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,10,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,10,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.7,10,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.7,10,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,10,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,10,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet's surface throughout the year.""}",stop
+llama3.2:3b,0.7,10,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,10,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,10,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.7,20,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,20,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,20,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,20,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,20,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.7,20,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.7,20,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,20,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,20,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet's surface throughout the year.""}",stop
+llama3.2:3b,0.7,20,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,20,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,20,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.7,50,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,50,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,50,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,50,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,50,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.7,50,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.7,50,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,50,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,50,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet's surface throughout the year.""}",stop
+llama3.2:3b,0.7,50,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,50,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,50,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.7,100,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,100,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,100,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,100,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,100,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,0.7,100,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,0.7,100,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,100,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,100,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet's surface throughout the year.""}",stop
+llama3.2:3b,0.7,100,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,100,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,0.7,100,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,1.0,10,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,10,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,10,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,10,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,10,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,1.0,10,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,1.0,10,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,10,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,10,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because it is tilted on its axis, causing different parts of the planet to receive varying amounts of sunlight throughout the year.""}",stop
+llama3.2:3b,1.0,10,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,10,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,10,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because it is tilted on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,1.0,20,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,1.0,20,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because it is tilted on its axis, causing different parts of the planet to receive varying amounts of sunlight throughout the year.""}",stop
+llama3.2:3b,1.0,20,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,20,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because it is tilted on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,1.0,50,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,1.0,50,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because it is tilted on its axis, causing different parts of the planet to receive varying amounts of sunlight throughout the year.""}",stop
+llama3.2:3b,1.0,50,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,50,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because it is tilted on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,0.5,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,0.5,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,0.5,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,0.7,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,0.7,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, resulting in varying amounts of sunlight and temperature fluctuations throughout the year.""}",stop
+llama3.2:3b,1.0,100,0.7,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis, causing varying amounts of sunlight to reach the planet throughout the year.""}",stop
+llama3.2:3b,1.0,100,0.9,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,0.9,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,0.9,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because it is tilted on its axis, causing different parts of the planet to receive varying amounts of sunlight throughout the year.""}",stop
+llama3.2:3b,1.0,100,1.0,42,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons due to its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,1.0,123,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because of its tilt on its axis as it orbits the sun.""}",stop
+llama3.2:3b,1.0,100,1.0,456,"{""capital"": ""Islamabad"", ""planet"": ""Mars"", ""symbol"": ""Au"", ""explanation"": ""Earth has seasons because it is tilted on its axis as it orbits the sun.""}",stop
+qwen2.5:3b,0.0,10,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,10,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,20,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,50,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.0,100,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,10,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,10,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,10,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,10,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,20,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,20,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,20,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,20,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,20,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,20,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,20,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,20,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,20,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,20,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,20,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,20,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,50,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,50,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,50,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,50,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,50,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,50,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,50,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,50,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,50,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,50,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,50,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,50,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,100,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,100,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,100,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,100,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,100,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,100,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,100,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,100,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,100,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.3,100,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,100,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.3,100,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,10,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,10,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,10,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,10,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,10,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,10,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,10,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,10,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,10,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,10,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,10,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,10,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,20,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,20,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,20,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,20,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,20,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,20,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,20,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,20,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,20,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,20,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,20,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,20,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,50,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,50,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,50,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,50,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,50,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,50,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,50,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,50,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,50,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,50,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,50,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,50,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,100,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,100,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,100,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,100,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,100,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,100,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,100,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,100,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,100,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,0.7,100,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,0.7,100,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,0.7,100,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,10,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,10,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,1.0,10,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,10,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,10,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,1.0,10,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,10,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,10,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasons.""
+}",stop
+qwen2.5:3b,1.0,10,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,10,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,10,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasons due to its orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,10,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,20,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,20,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,1.0,20,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,20,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,20,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,1.0,20,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,20,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,20,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasons.""
+}",stop
+qwen2.5:3b,1.0,20,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,20,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,20,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasons due to its orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,20,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,50,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,50,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,1.0,50,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,50,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,50,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,1.0,50,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,50,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,50,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasons.""
+}",stop
+qwen2.5:3b,1.0,50,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,50,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,50,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasons due to its orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,50,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,100,0.5,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,100,0.5,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,1.0,100,0.5,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,100,0.7,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,100,0.7,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes, resulting in its seasons.""
+}",stop
+qwen2.5:3b,1.0,100,0.7,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,100,0.9,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,100,0.9,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasons.""
+}",stop
+qwen2.5:3b,1.0,100,0.9,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,100,1.0,42,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasonal changes.""
+}",stop
+qwen2.5:3b,1.0,100,1.0,123,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth's axial tilt causes seasons due to its orbit around the Sun.""
+}",stop
+qwen2.5:3b,1.0,100,1.0,456,"{
+  ""capital"": ""Islamabad"",
+  ""planet"": ""Mars"",
+  ""symbol"": ""Au"",
+  ""explanation"": ""Earth experiences seasons due to its axial tilt and orbit around the Sun.""
+}",stop
