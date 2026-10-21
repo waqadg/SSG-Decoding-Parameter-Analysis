@@ -1,5 +1,0 @@
-ollama
-pandas
-numpy
-matplotlib
-notebook
